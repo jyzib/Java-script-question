@@ -1,0 +1,10 @@
+.error{
+    display: none;
+    transition: 1s;
+}
+#submit{
+    display: none;
+}
+/* #btn{
+    height: 30px;
+} */
